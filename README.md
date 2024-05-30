@@ -34,17 +34,3 @@ This is a web application built with React that allows you to search and watch o
 Before running the application, make sure you have a valid TMDB API key. You can obtain one at https://www.themoviedb.org/settings/api.
 
 Once you have your API key, replace the value of `API_KEY` in the `src/App.js` file with your own key.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b my-new-feature`
-3. Make your changes and commit: `git commit -am 'Add a new feature'`
-4. Push your changes: `git push origin my-new-feature`
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
